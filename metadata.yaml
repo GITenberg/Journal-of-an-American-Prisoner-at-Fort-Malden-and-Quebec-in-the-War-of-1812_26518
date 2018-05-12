@@ -1,0 +1,32 @@
+_repo: Journal-of-an-American-Prisoner-at-Fort-Malden-and-Quebec-in-the-War-of-1812_26518
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, James, active 1812
+    gutenberg_agent_id: '32065'
+    url: http://www.gutenberg.org/2009/agents/32065
+  editor:
+    agent_name: Fairchild, G. M. (George Moore)
+    alias: Fairchild, George Moore
+    birthdate: 1854
+    deathdate: 1912
+    gutenberg_agent_id: '32066'
+    url: http://www.gutenberg.org/2009/agents/32066
+description: ''
+gutenberg_issued: '2008-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26518'
+  lccn: '16002292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- War of 1812 -- Personal narratives'
+- !lcc 'E300'
+title: Journal of an American Prisoner at Fort Malden and Quebec in the War of 1812
+url: http://www.gutenberg.org/ebooks/26518
